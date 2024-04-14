@@ -1,0 +1,16 @@
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.exe
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.deps.json
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.runtimeconfig.json
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.runtimeconfig.dev.json
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.dll
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\ref\Younes-Sayeh-Entretien-HoraireMagasin.dll
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\bin\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.pdb
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.csproj.AssemblyReference.cache
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.AssemblyInfoInputs.cache
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.AssemblyInfo.cs
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.csproj.CoreCompileInputs.cache
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.dll
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\ref\Younes-Sayeh-Entretien-HoraireMagasin.dll
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.pdb
+C:\Users\Sayeh\source\repos\Younes-Sayeh-Entretien-HoraireMagasin\Younes-Sayeh-Entretien-HoraireMagasin\obj\Debug\net5.0\Younes-Sayeh-Entretien-HoraireMagasin.genruntimeconfig.cache
